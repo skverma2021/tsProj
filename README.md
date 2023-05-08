@@ -1,0 +1,2 @@
+# tsProj
+typescript exercises
